@@ -1,0 +1,2 @@
+[Adblock Plus 0.7.5]
+@@*$document,domain=walla.co.il
